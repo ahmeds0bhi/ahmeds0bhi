@@ -56,7 +56,7 @@ class IntroductionController extends Controller
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/ahmeds0bhi/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:ahmedsobhysharaf2014@gmail.com">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:ahmedsobhysharaf2014@gmail.com">
 		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
 	</a>
 </section>
