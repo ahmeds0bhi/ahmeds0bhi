@@ -11,7 +11,7 @@ class IntroductionController extends Controller
     public function introduceYourself(Request $request)
     {
         $name = $request->input('name', 'Ahmed sobhi');
-        $occupation = $request->input('occupation', 'Full-Stack Developer');
+        $occupation = $request->input('occupation', 'PHP Backend Developer');
         $interests = $request->input('interests', ['PHP', 'Laravel', 'React.js']);
 
         $introduction = "Hello, my name is {$name}. I am a {$occupation} and my interests include " . implode(', ', $interests) . ".";
